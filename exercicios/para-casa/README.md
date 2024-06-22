@@ -2,10 +2,23 @@
 
 ## Nome do Exercicio
 
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
----
+## Exercícios Para casa:
+
+### Exercícios de Estrutura de Repetição
+- [Exercício 36](https://wiki.python.org.br/EstruturaDeRepeticao): Implementação de um contador regressivo.
+
+### Exercícios de Estrutura de Repetição
+- [Exercício 38](https://wiki.python.org.br/EstruturaDeRepeticao).
+
+### Exercícios de Estrutura de Repetição
+- [Exercício 32](https://wiki.python.org.br/EstruturaDeRepeticao).
+
+### Exercícios Com Listas
+- [Exercício 5](https://wiki.python.org.br/EstruturaDeRepeticao): Cálculo da média de notas de alunos.
+
+## Sugestão extra:
+- [Beecrowd](https://www.beecrowd.com.br/): Plataforma com exercícios de programação para prática adicional.
+
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
 
