@@ -5,16 +5,13 @@
 ## Exercícios Para casa:
 
 ### Exercícios de Estrutura de Repetição
-- [Exercício 36](https://wiki.python.org.br/EstruturaDeRepeticao): Implementação de um contador regressivo.
+- [Exercício 36](https://wiki.python.org.br/EstruturaDeRepeticao)
 
 ### Exercícios de Estrutura de Repetição
 - [Exercício 38](https://wiki.python.org.br/EstruturaDeRepeticao).
 
 ### Exercícios de Estrutura de Repetição
 - [Exercício 32](https://wiki.python.org.br/EstruturaDeRepeticao).
-
-### Exercícios Com Listas
-- [Exercício 5](https://wiki.python.org.br/EstruturaDeRepeticao): Cálculo da média de notas de alunos.
 
 ## Sugestão extra:
 - [Beecrowd](https://www.beecrowd.com.br/): Plataforma com exercícios de programação para prática adicional.
