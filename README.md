@@ -4,63 +4,33 @@
 
 # Tema da Aula
 
-Turma Online X | Semana X | 202X | Professora X
+Turma Online 33 | Semana 4| 2024 | Professora Stefany Gracy
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
 * Fork esse repositório 
 * Clone o fork na sua máquina (Para isso basta abrir o seu terminal e digitar `git clone url-do-seu-repositorio-forkado`)
 * Entre na pasta do seu repositório (Para isso basta abrir o seu terminal e digitar `cd nome-do-seu-repositorio-forkado`)
-* [Add outras intrucoes caso necessario]
+
 
 ### Resumo
 O que veremos na aula de hoje?
-* [Tema1](#tema1)
-* [Tema2](#tema2)
-* [Tema3](#tema3)
+### 1. Iteradores e o laço while
 
-## Conteúdo
-### Tema1 
-1. [Tópico 1](#topico1)
-2. [Tópico 2](#topico2)
-### Tema2 
-1. [Tópico 3](#topico3)
-   * [Subtópico 1](#subtopico1)
-   * [Subtópico 2](#subtopico2)
-   
-### Tema3
-1. [Tópico 4](#topico4)
+- **Definição:** O `while` é uma estrutura de repetição que executa um bloco de código repetidamente enquanto uma condição específica é verdadeira.
+- **Exemplo:** Usado quando precisamos realizar uma tarefa várias vezes até que uma condição seja atendida, como contar até um número determinado.
 
-### Tema1 
+### 2. Função range() e o laço for
 
-#### Topico1
+- **Definição:** A função `range()` em Python gera uma sequência de números. É frequentemente usada com o `for`, que é um laço de repetição que itera sobre uma sequência de elementos.
+- **Exemplo:** Utilizado para percorrer listas, tuplas ou dicionários, executando um bloco de código para cada elemento da sequência.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices. Nunc ante massa, dictum eget justo eget, feugiat tincidunt metus.
+### 3. Estruturas de dados
 
- #### Topico2
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - Donec erat mauris, laoreet in tortor vel
-  - Nunc ante massa, dictum eget justo eget, feugiat tincidunt.
+- **Listas:** Sequências ordenadas de itens que podem ser modificadas. Exemplo: `lista = [1, 2, 3]`
+- **Tuplas:** Sequências ordenadas de itens imutáveis. Exemplo: `tupla = (4, 5, 6)`
+- **Dicionários:** Coleções não ordenadas de pares chave-valor. Exemplo: `dicionario = {"nome": "João", "idade": 30}`
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit.
-
-### Tema2
-#### Topico3
-* [Subtópico 1](#subtopico1)
-* [Subtópico 2](#Subtopico2)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
-
-##### Subtopico1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
-
-##### Subtopico2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
-
-### Tema3
-#### Topico4
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices.
-
-***
 ### Exercícios 
 * [Exercicio para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
 * [Exercicio para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
@@ -68,11 +38,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempu
 ### Material da aula 
 
 ### Links Úteis
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-
+- [Video sobre o que acontece em uma função](https://www.youtube.com/watch?v=nWmPEgTwGMM)
+- [Beecrowd](https://www.beecrowd.com.br/)
 
 <p align="center">
 Desenvolvido com :purple_heart:  
