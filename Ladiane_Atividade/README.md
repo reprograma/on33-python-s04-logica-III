@@ -1,5 +1,4 @@
-![reprograma-fundos-claros-1](https://github.com/Ladiane-PS/aula01/assets/123704367/9e7296ee-fde7-4c4b-a671-92ddb5c92463)
-
+![logo Reprograma](https://github.com/Ladiane-PS/on33-python-s02/assets/123704367/d2b3daed-2fa3-456b-8742-07052de9e5e9)
 
 # Exemplos em Python 🚀
 
