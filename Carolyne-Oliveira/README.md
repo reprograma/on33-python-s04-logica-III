@@ -104,4 +104,4 @@ Altere o programa permitindo que o usuário digite o salário inicial do funcion
 
        print(f'Seu salário atual é de: R$ {salario_inicial}')
 
-🔚   
+## 🔚   
